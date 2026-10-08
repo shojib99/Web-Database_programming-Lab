@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My CV</title>
+</head>
+
+<body bgcolor="lightgray" text="black">
+
+    <!-- A4 Page -->
+    <table width="794" height="1123"
+           align="center"
+           bgcolor="white"
+           border="1"
+           cellpadding="15"
+           cellspacing="0">
+
+        <!-- Header -->
+        <tr height="120">
+            <td align="center" bgcolor="darkblue">
+
+                <font color="white">
+                    <h1>Shojib Sheikh</h1>
+
+                    <p>
+                        Email: shojibsheikh99@gmail.com
+                        <br>
+                        Phone: 01889308901
+                        <br>
+                        Dhaka, Bangladesh
+                    </p>
+                </font>
+
+            </td>
+        </tr>
+
+        <!-- Career Objective -->
+        <tr>
+            <td>
+
+                <h2>
+                    <font color="darkblue">
+                        Career Objective
+                    </font>
+                </h2>
+
+                <p>
+                    A motivated Computer Science student seeking
+                    opportunities to develop my technical skills
+                    and gain practical experience in software
+                    development and information technology.
+                </p>
+
+            </td>
+        </tr>
+
+        <!-- Education -->
+        <tr>
+            <td>
+
+                <h2>
+                    <font color="darkblue">
+                        Education
+                    </font>
+                </h2>
+
+                <table width="100%"
+                       border="1"
+                       cellpadding="8"
+                       cellspacing="0">
+
+                    <tr bgcolor="darkblue">
+                        <th>
+                            <font color="white">Degree</font>
+                        </th>
+
+                        <th>
+                            <font color="white">Institution</font>
+                        </th>
+
+                        <th>
+                            <font color="white">Year</font>
+                        </th>
+
+                        <th>
+                            <font color="white">Result</font>
+                        </th>
+                    </tr>
+
+                    <tr align="center">
+                        <td>BSc in Computer Science</td>
+                        <td>BUBT</td>
+                        <td>2026</td>
+                        <td>Running</td>
+                    </tr>
+
+                    <tr align="center">
+                        <td>HSC</td>
+                        <td>Nasirabad college Mymensingh</td>
+                        <td>2021</td>
+                        <td>5.00</td>
+                    </tr>
+
+                    <tr align="center">
+                        <td>SSC</td>
+                        <td>Birkhamat khali J.B. high school</td>
+                        <td>2019</td>
+                        <td>5.00</td>
+                    </tr>
+
+                </table>
+
+            </td>
+        </tr>
+
+        <!-- Skills and Projects -->
+        <tr>
+            <td>
+
+                <table width="100%" cellpadding="5">
+
+                    <tr>
+                        <td width="50%" valign="top">
+
+                            <h2>
+                                <font color="darkblue">
+                                    Technical Skills
+                                </font>
+                            </h2>
+
+                            <ul>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>Python</li>
+                                <li>C / C++</li>
+                                <li>Website Development</li>
+                                <li>Database Management</li>
+                            </ul>
+
+                        </td>
+
+                        <td width="50%" valign="top">
+
+                            <h2>
+                                <font color="darkblue">
+                                    Projects
+                                </font>
+                            </h2>
+
+                            <ul>
+                                <li>Saving Food website</li>
+                                <li>Car Game using C++</li>
+                                <li>Chatting Buddy using python</li>
+                            </ul>
+
+                        </td>
+                    </tr>
+
+                </table>
+
+            </td>
+        </tr>
+
+        <!-- Personal Information -->
+        <tr>
+            <td>
+
+                <h2>
+                    <font color="darkblue">
+                        Personal Information
+                    </font>
+                </h2>
+
+                <table width="100%" cellpadding="5">
+
+                    <tr>
+                        <td><b>Father's Name</b></td>
+                        <td>Abdus Satter</td>
+                    </tr>
+
+                    <tr>
+                        <td><b>Mother's Name</b></td>
+                        <td>Konika Akther</td>
+                    </tr>
+
+                    <tr>
+                        <td><b>Date of Birth</b></td>
+                        <td>15/12/2003</td>
+                    </tr>
+
+                    <tr>
+                        <td><b>Nationality</b></td>
+                        <td>Bangladeshi</td>
+                    </tr>
+
+                    <tr>
+                        <td><b>Address</b></td>
+                        <td>Dhaka, Bangladesh</td>
+                    </tr>
+
+                </table>
+
+            </td>
+        </tr>
+
+        <!-- Declaration -->
+        <tr>
+            <td>
+
+                <h2>
+                    <font color="darkblue">
+                        Declaration
+                    </font>
+                </h2>
+
+                <p>
+                    I hereby declare that the information provided
+                    above is true and correct to the best of my
+                    knowledge.
+                </p>
+
+            </td>
+        </tr>
+
+        <!-- Footer -->
+        <tr height="50">
+            <td align="center" bgcolor="darkblue">
+
+                <font color="white">
+                    © 2026 Shojib Sheikh
+                </font>
+
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
